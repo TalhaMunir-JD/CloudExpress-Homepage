@@ -1,5 +1,4 @@
 import React from "react";
-import 'bootstrap/dist/css/bootstrap.css';
 import './Header.css'; // Import your CSS file
 
 
