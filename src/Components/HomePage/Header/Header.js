@@ -7,7 +7,7 @@ const Header = () => {
     <div className="header-title">
         <div className="header-text">
             <h2>
-              Cloud Express 
+              Age Viewer
             </h2>
         </div>   
         <div className="account-information">
